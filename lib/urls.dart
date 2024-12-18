@@ -1,5 +1,5 @@
 
-const String domain="127.0.0.1:8000";
+const String domain="notes-api-django.vercel.app";
 
 
 Uri getNotesUrl(){
